@@ -1,5 +1,6 @@
-## Hi there 👋
+## Maria Eduarda Meneses
 
+Sou Técnica em Desenvolvimento de Sistemas e atualmente estou cursando o terceiro semestre de Ciência da Computação. Tenho um forte interesse por desenvolvimento Front-End e estou estudando tecnologias para aprimorar minhas habilidades. 😊
 <!--
 **menesesmaria/menesesmaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
